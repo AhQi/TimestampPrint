@@ -1,2 +1,1 @@
-# glitch
-freecodecamp
+# Backend Challenges boilerplate - package.json
